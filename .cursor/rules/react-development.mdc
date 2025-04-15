@@ -1,8 +1,13 @@
 ---
-description: Developing React components in Astro application
+description: 
 globs: 
 alwaysApply: false
 ---
+Developing React components in Astro application
+## Frontend
+
+### Guidelines for React
+
 #### React Coding Standards
 
 - Use functional components with hooks instead of class components
