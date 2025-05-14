@@ -19,6 +19,13 @@ const availableSubjects: Subject[] = [
     description:
       "Poznaj podstawy automatyzacji przepływu pracy w GitHub z wykorzystaniem GitHub Actions",
   },
+  {
+    id: "github",
+    name: "Pierwsze kroki z GitHub.com",
+    path: "/docs/github",
+    description:
+      "Poznaj podstawy pracy z platformą GitHub i systemem kontroli wersji Git",
+  },
 ];
 
 // Total number of tiles to display
